@@ -8,7 +8,7 @@
 1. **Clonar el repositorio**  
    Ejecutá el siguiente comando en tu terminal para clonar el repositorio en tu máquina local:  
    ```bash
-   git clone https://github.com/dzCazador/ITS-Backend-ProyectoFinal.git
+   git clone https://github.com/pereyramarina/backend_tp.git
    ```
 
 2. **Instalar las dependencias**  
